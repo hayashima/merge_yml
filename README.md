@@ -1,2 +1,7 @@
 # merge_yml
-merge yaml files.
+## how to use.
+
+```
+$ ruby merge_yml.rb base.yml patch.yml > out.yml
+```
+
